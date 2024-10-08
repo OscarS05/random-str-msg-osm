@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-osm",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarS05/random-str-msg-osm.git"
+  },
+  "keywords": [],
+  "author": "Oscar Santiago Monsalve <santiagomonsalve7030@gmail>",
+  "license": "ISC",
+  "homepage": "https://github.com/OscarS05/random-str-msg-osm#readme",
+  "bin": {
+    "random-str-msg-osm": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "random-str-msg-osm": "^1.0.0",
+    "user": "^0.0.0"
+  }
+}
