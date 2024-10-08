@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "Oscar Santiago Monsalve <santiagomonsalve7030@gmail>",
   "license": "ISC",
-  "homepage": "git@github.com:OscarS05/random-str-msg-osm#readme",
+  "homepage": "https://github.com/OscarS05/random-str-msg-osm#readme",
   "bin": {
     "random-str-msg-osm": "./bin/global.js"
   },
